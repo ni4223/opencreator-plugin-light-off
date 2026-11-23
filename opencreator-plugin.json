@@ -1,0 +1,8 @@
+{
+  "id": "light-off-on-end",
+  "name": "Auto light off",
+  "version": "1.0.0",
+  "description": "Turns the chamber light off when a print finishes, is cancelled or stops with an error. On/off switch, off by default.",
+  "klippy_extras": ["klippy/oc_light_off.py"],
+  "klipper_config": "config/light-off.cfg"
+}
