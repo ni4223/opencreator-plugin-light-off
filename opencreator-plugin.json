@@ -1,8 +1,8 @@
 {
   "id": "light-off-on-end",
-  "name": "Auto light off",
-  "version": "1.0.0",
-  "description": "Turns the chamber light off when a print finishes, is cancelled or stops with an error. On/off switch, off by default.",
+  "name": "Auto light",
+  "version": "1.1.0",
+  "description": "Turns the chamber light on when a print starts and off when it finishes. On/off switch, on by default.",
   "homepage": "https://github.com/ni4223/opencreator-plugin-light-off",
   "klippy_extras": ["klippy/oc_light_off.py"],
   "klipper_config": "config/light-off.cfg"
