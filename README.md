@@ -7,10 +7,8 @@ installed.
 
 ## Turning it on and off
 
-- Fluidd: the `auto_light` toggle, next to switches like
-  `park_carriage_on_end`.
-- Macros: `OC_AUTO_LIGHT_ON` and `OC_AUTO_LIGHT_OFF`, or
-  `SET_PIN PIN=auto_light VALUE=1` / `VALUE=0`.
+- Fluidd: the `auto_light` toggle.
+- Macros: `OC_AUTO_LIGHT_ON` and `OC_AUTO_LIGHT_OFF`.
 - `OC_AUTO_LIGHT_STATUS` says whether it's on.
 
 The setting is kept in save_variables (`oc_auto_light`), so it survives
